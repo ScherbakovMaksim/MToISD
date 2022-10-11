@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Scherbakov Maksim
+Main-Class: ru.rsatu.lr3.Main
+
